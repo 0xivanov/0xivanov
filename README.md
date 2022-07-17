@@ -11,33 +11,17 @@ Blockchain technologies, Node.js and React.js
 ### 🚧 I build with...
 
 <p>
-  <a href="http://avaloniaui.net/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/java.png" alt="Java" style="vertical-align:top; margin:4px">
+  <a href="#">
+    <img src="/png/dev/languages/java.png" alt="java" style="vertical-align:top; margin:4px">
   </a>
 
- <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+ <a href="#">
+    <img src="/png/dev/frameworks/nodejs.png" alt="node" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://github.com/apple/swift">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+  <a href="#">
+    <img src="/png/dev/frameworks/react.png" alt="react" style="vertical-align:top; margin:4px">
   </a>
-
-  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/dotnet/wpf">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/xamarin/Xamarin.Forms">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/xamarin/xamarin-macios">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
-  </a>  
 
 ### Connect with me here:
 [<img align="left" alt="ivan-02 | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
