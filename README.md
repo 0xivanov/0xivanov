@@ -6,7 +6,7 @@
 <img aling="left" alt="ivan-02 | gif" width="220px" border="5" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 
 ### 🌱 I’m currently learning
-Blockchain technologies, Node.js and React.js
+Web3, Node.js and React.js
 
 ### 🚧 I build with...
 
