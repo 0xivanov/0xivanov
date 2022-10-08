@@ -47,9 +47,7 @@ Web3, Node.js and React.js
   ![](./profile-3d-contrib/profile-night-green.svg)
 
 ### Connect with me here:
-[<img align="left" alt="ivan-02 | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
-[<img align="left" alt="ivan-02 | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
+[<img align="left" alt="ivan-02 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />][LinkedIn]
 
 
-[facebook]: https://www.facebook.com/profile.php?id=100004102871347
-[instagram]: https://instagram.com/ivanoww.i
+[LinkedIn]: https://www.linkedin.com/in/ivan-ivanov-12a1b2189/
