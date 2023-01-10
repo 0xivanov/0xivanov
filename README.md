@@ -46,8 +46,3 @@ Web3, Node.js and React.js
   
   ![](./profile-3d-contrib/profile-night-green.svg)
 
-### Connect with me here:
-[<img align="left" alt="ivan-02 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />][LinkedIn]
-
-
-[LinkedIn]: https://www.linkedin.com/in/ivan-ivanov-12a1b2189/
