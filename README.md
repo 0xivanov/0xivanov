@@ -1,12 +1,12 @@
 
 
 # Welcome! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"> 
-### Software Engineering student at University of Plovdiv. Currently working as Java Developer.
+### Currently working as a Blockchian Developer.
 <img align="left" alt="ivan-02's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivan-02&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="ivan-02 | gif" width="220px" border="5" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 
-### 🌱 I’m currently learning
-Web3, Node.js and React.js
+### 🌱 I’m learning
+Golang and Cosmos SDK
 
 ### 🚧 I build with...
 
@@ -25,8 +25,6 @@ Web3, Node.js and React.js
         <a href="https://docs.ethers.io/v5/" target="_blank">
             <img src="https://docs.ethers.io/v5/static/logo.svg" alt="ethersjs" width="40" height="40" />
         </a>
-        <a href="https://trufflesuite.com/" target="_blank">
-            <img src="https://trufflesuite.com/assets/logo.png" alt="truffle" width="40" height="40" />
         </a>
         <a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank">
             <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" width="40" height="40" />
