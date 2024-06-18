@@ -1,7 +1,7 @@
 
 
 # Welcome! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"> 
-### Currently working as a Blockchian Developer.
+### Currently working as a Blockchain Developer.
 <img align="left" alt="0xivanov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0xivanov&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="0xivanov | gif" width="220px" border="5" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 
